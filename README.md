@@ -18,6 +18,7 @@ Hi! I'm **Md. Toufiqul Islam**, a **Frontend-Specialist MERN Stack Developer** p
 - 🔭 Currently working on **MERN stack projects**
 - 🌱 Learning **advanced React, performance optimization & backend best practices**
 - 💡 Love clean UI, reusable components & real-world problem solving
+- 🚀 I am exploring **Next.js**
 - 🎯 Goal: Become a **professional full-stack developer**
 
 ---
