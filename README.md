@@ -62,8 +62,10 @@ Hi! I'm **Md. Toufiqul Islam**, a **Frontend-Specialist MERN Stack Developer** p
 ---
 
 ## 📊 GitHub Stats
+| ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Toufiqul2022) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Toufiqul2022&theme=dark&hide_border=false) |
+|---|---|
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Toufiqul2022)](https://github.com/Toufiqul2022/github-readme-profile)
+
 
 ---
 
