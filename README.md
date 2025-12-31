@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Md. Toufiqul Islam**, a **Frontend-Focused MERN Stack Developer** passionate about building **modern, responsive, and scalable web applications**.
+Hi! I'm **Md. Toufiqul Islam**, a **Frontend-Specialist MERN Stack Developer** passionate about building **modern, responsive, and scalable web applications**.
 
 - 🔭 Currently working on **MERN stack projects**
 - 🌱 Learning **advanced React, performance optimization & backend best practices**
