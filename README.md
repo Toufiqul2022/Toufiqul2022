@@ -49,7 +49,8 @@ Hi! I'm **Md. Toufiqul Islam**, a **Frontend-Specialist MERN Stack Developer** p
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- ===================== DEPLOYMENT ===================== -->
+---
+
 ## ☁️ Deployment
 
 <p align="left">
@@ -59,32 +60,27 @@ Hi! I'm **Md. Toufiqul Islam**, a **Frontend-Specialist MERN Stack Developer** p
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Toufiqul2022)](https://github.com/Toufiqul2022/github-readme-profile)
 
-
-
-
-
 ---
 
-<!-- ===================== PROFILE VIEWS ===================== -->
 ## 👀 Profile Views
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Toufiqul2022&label=Profile%20Views&color=0AAFFF&style=flat-square" />
-
+  <img src="https://komarev.com/ghpvc/?username=Toufiqul2022&label=Profile%20Views&color=0AAFFF&style=flat-square" />
 </div>
 
 ---
 
-<!-- ===================== CONTACT ===================== -->
-
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Toufiqul2022&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+---
 
 ## 📬 Contact Me
 
